@@ -312,7 +312,6 @@ h2{
     height: 35svh;
     justify-content: space-around;
     flex-wrap: nowrap;
-    overflow: auto;
   }
 
   h2{
