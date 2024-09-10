@@ -309,7 +309,7 @@ h2{
   }
 
   .container-hoteltela{
-    height: 30vh;
+    height: 35svh;
     justify-content: space-around;
     flex-wrap: nowrap;
     overflow: auto;
